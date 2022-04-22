@@ -25,5 +25,6 @@ flutter:
   uses-material-design: true
   assets:
     - jsonfile/working.json
+    - jsonfile/data2022-04-17.json
     - images/P2logo.jpg
 
